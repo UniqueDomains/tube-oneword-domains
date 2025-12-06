@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.TUBE one word domains
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaron.tube      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.tube      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.tube  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.tube      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.tube  | available | 58       | 7%     | 9      |           |         |         |
