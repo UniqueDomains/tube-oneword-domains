@@ -1,10 +1,10 @@
-# Available .TUBE One-Word Domains (8,922)
+# Available .TUBE One-Word Domains (8,924)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C924%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C922%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C924%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .tube one-word domains from Unique
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,924 rows · **Live catalog:** 8,922 domains
+**Public extract:** 8,924 rows · **Live catalog:** 8,924 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/tube`  
@@ -66,23 +66,23 @@ print(df.head())
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
 | order.tube   | available | $33.98    | —             | 78             | 40     | 5      | namecheap                  |
 | hello.tube   | resell    | —         | —             | 130            | 70     | 5      | Squarespace Domains II LLC |
-| fast.tube    | premium   | $125      | $34.99        | 82             | 53     | 4      | name.com                   |
+| fast.tube    | premium   | $125      | $34.99        | 82             | 52     | 4      | name.com                   |
 | unity.tube   | available | $33.98    | —             | 70             | 40     | 5      | namecheap                  |
 | better.tube  | resell    | —         | —             | 110            | 54     | 6      | NameCheap, Inc.            |
-| air.tube     | premium   | $975      | $26           | 84             | 49     | 3      | namecheap                  |
+| simple.tube  | premium   | $125      | $34.99        | 128            | 49     | 6      | name.com                   |
 | gather.tube  | available | $33.98    | —             | 96             | 39     | 6      | namecheap                  |
 | brain.tube   | resell    | —         | —             | 72             | 49     | 5      | NameCheap, Inc.            |
-| simple.tube  | premium   | $125      | $34.99        | 128            | 48     | 6      | name.com                   |
+| air.tube     | premium   | $975      | $26           | 84             | 49     | 3      | namecheap                  |
 | eternal.tube | available | $33.98    | —             | 92             | 39     | 7      | namecheap                  |
 | token.tube   | resell    | —         | —             | 114            | 46     | 5      | Dynadot Inc                |
 | all.tube     | premium   | $468.75   | $34.99        | 88             | 48     | 3      | name.com                   |
 | forward.tube | available | $33.98    | —             | 68             | 39     | 7      | namecheap                  |
 | safe.tube    | resell    | —         | —             | 84             | 46     | 4      | Realtime Register B.V.     |
 | only.tube    | premium   | $250      | $34.99        | 110            | 46     | 4      | name.com                   |
-| check.tube   | available | $33.98    | —             | 76             | 38     | 5      | namecheap                  |
+| unify.tube   | available | $33.98    | —             | 72             | 38     | 5      | namecheap                  |
 | rocket.tube  | resell    | —         | —             | 100            | 45     | 6      | Dynadot Inc                |
 | snap.tube    | premium   | $62.50    | $34.99        | 90             | 46     | 4      | name.com                   |
-| unify.tube   | available | $33.98    | —             | 72             | 38     | 5      | namecheap                  |
+| cozy.tube    | available | $33.98    | —             | 110            | 37     | 4      | namecheap                  |
 | print.tube   | resell    | —         | —             | 114            | 42     | 5      | Porkbun                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,924-row public sample | 8,922 live domains                               |
+| 8,924-row public sample | 8,924 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
