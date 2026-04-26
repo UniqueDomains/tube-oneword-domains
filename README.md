@@ -1,22 +1,22 @@
-# Available .TUBE One-Word Domains (8,924)
+# Available .TUBE One-Word Domains (11,468)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C924%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C924%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C468%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .tube one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .tube one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,468 domains** on the canonical page below.
 
-**Public extract:** 8,924 rows · **Live catalog:** 8,924 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,468 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/tube`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .TUBE one-word domain 
 
 ### Files
 
-- `tube.csv` — public CSV extract (8,924 rows)
-- `tube.json` — public JSON extract (8,924 rows)
+- `tube.csv` — public CSV extract (1,000 rows)
+- `tube.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| order.tube   | available | $33.98    | —             | 78             | 40     | 5      | namecheap                  |
-| hello.tube   | resell    | —         | —             | 130            | 70     | 5      | Squarespace Domains II LLC |
-| fast.tube    | premium   | $125      | $34.99        | 82             | 52     | 4      | name.com                   |
-| unity.tube   | available | $33.98    | —             | 70             | 40     | 5      | namecheap                  |
-| better.tube  | resell    | —         | —             | 110            | 54     | 6      | NameCheap, Inc.            |
-| simple.tube  | premium   | $125      | $34.99        | 128            | 49     | 6      | name.com                   |
-| gather.tube  | available | $33.98    | —             | 96             | 39     | 6      | namecheap                  |
-| brain.tube   | resell    | —         | —             | 72             | 49     | 5      | NameCheap, Inc.            |
-| air.tube     | premium   | $975      | $26           | 84             | 49     | 3      | namecheap                  |
-| eternal.tube | available | $33.98    | —             | 92             | 39     | 7      | namecheap                  |
-| token.tube   | resell    | —         | —             | 114            | 46     | 5      | Dynadot Inc                |
-| all.tube     | premium   | $468.75   | $34.99        | 88             | 48     | 3      | name.com                   |
-| forward.tube | available | $33.98    | —             | 68             | 39     | 7      | namecheap                  |
-| safe.tube    | resell    | —         | —             | 84             | 46     | 4      | Realtime Register B.V.     |
-| only.tube    | premium   | $250      | $34.99        | 110            | 46     | 4      | name.com                   |
-| unify.tube   | available | $33.98    | —             | 72             | 38     | 5      | namecheap                  |
-| rocket.tube  | resell    | —         | —             | 100            | 45     | 6      | Dynadot Inc                |
-| snap.tube    | premium   | $62.50    | $34.99        | 90             | 46     | 4      | name.com                   |
-| cozy.tube    | available | $33.98    | —             | 110            | 37     | 4      | namecheap                  |
-| print.tube   | resell    | —         | —             | 114            | 42     | 5      | Porkbun                    |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| IsleofMan.tube     | available | $33.98    | —             | 62             | 91     | 11     | namecheap       |
+| makers.tube        | resell    | —         | —             | 62             | 67     | 6      | IONOS SE        |
+| donuts.tube        | premium   | $62.50    | —             | 54             | 62     | 6      | name.com        |
+| insight.tube       | available | $33.98    | —             | 76             | 69     | 8      | namecheap       |
+| brain.tube         | resell    | —         | —             | 72             | 49     | 5      | NameCheap, Inc. |
+| travelers.tube     | premium   | $937.50   | —             | 58             | 61     | 9      | name.com        |
+| keepthechange.tube | available | $33.98    | —             | 46             | 59     | 15     | namecheap       |
+| Books.tube         | premium   | $525      | $28           | 52             | 49     | 5      | namecheap       |
+| teams.tube         | available | $33.98    | —             | 62             | 32     | 5      | namecheap       |
+| justin.tube        | premium   | $125      | —             | 58             | 38     | 7      | name.com        |
+| letsgo.tube        | available | $33.98    | —             | 57             | 31     | 7      | namecheap       |
+| WiFi.tube          | premium   | $140      | $28           | 83             | 37     | 5      | namecheap       |
+| inspiration.tube   | available | $33.98    | —             | 88             | 30     | 11     | namecheap       |
+| stories.tube       | premium   | $62.50    | —             | 58             | 36     | 7      | name.com        |
+| trades.tube        | available | $23.99    | $23.99        | 71             | 26     | 6      | namesilo        |
+| homes.tube         | premium   | $62.50    | —             | 86             | 34     | 5      | name.com        |
+| sites.tube         | available | $33.98    | —             | 53             | 26     | 5      | namecheap       |
+| etc.tube           | premium   | $62.50    | —             | 58             | 34     | 3      | name.com        |
+| whats.tube         | available | $23.99    | $23.99        | 58             | 24     | 5      | namesilo        |
+| Jim.tube           | premium   | $525      | $28           | 78             | 28     | 3      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,924-row public sample | 8,924 live domains                               |
+| 1,000-row public sample | 11,468 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TUBE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TUBE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
