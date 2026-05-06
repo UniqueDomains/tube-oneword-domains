@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .tube one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,875 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,875 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,875 domains · **Median ask:** $42.18 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-03  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/tube`  
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | makers.tube        | resell    | —         | —             | 62             | 67     | 6      | IONOS SE        |
 | donuts.tube        | premium   | $62.50    | —             | 54             | 62     | 6      | name.com        |
 | keepthechange.tube | available | $33.98    | —             | 46             | 59     | 15     | namecheap       |
-| brain.tube         | resell    | —         | —             | 72             | 49     | 5      | NameCheap, Inc. |
+| brain.tube         | resell    | —         | —             | 72             | 48     | 5      | NameCheap, Inc. |
 | Books.tube         | premium   | $525      | $28           | 52             | 49     | 5      | namecheap       |
 | teams.tube         | available | $33.98    | —             | 62             | 32     | 5      | namecheap       |
 | justin.tube        | premium   | $125      | —             | 58             | 38     | 7      | name.com        |
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,875 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,875 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .tube domains. The set leans toward concise dictionary words and broad commercial terms, with examples such as chart.tube, capital.tube, feature.tube, firm.tube, and elegant.tube. For founders, the key question is whether the word remains memorable and credible when paired with .tube. For investors, the main test is whether the keyword has clear resale logic beyond novelty. With a median ask of 42.18, entry pricing appears low, but .tube is a niche extension, so end-user fit matters more than volume alone. Favor names where the word and extension create a natural phrase or category signal.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- One-word .tube domains only
+- 11,875 domains in this selection
+- Median ask: 42.18
+- Best fit when word + .tube reads naturally
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TUBE One-Word Domains*. Version 2026-05-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TUBE One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
