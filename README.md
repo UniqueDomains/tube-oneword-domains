@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tube one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,877 domains · **Median ask:** $42.18 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/tube`  
 **Best for:** founders, investors, studios
 
@@ -83,7 +83,7 @@ print(df.head())
 | whats.tube         | available | $23.99    | $23.99        | 58             | 24     | 5      | namesilo        |
 | Jim.tube           | premium   | $525      | $28           | 78             | 28     | 3      | namecheap       |
 | inhouse.tube       | available | $33.98    | —             | 70             | 23     | 8      | namecheap       |
-| comics.tube        | premium   | $125      | —             | 68             | 24     | 6      | name.com        |
+| superhero.tube     | premium   | $62.50    | —             | 84             | 23     | 9      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TUBE One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TUBE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
