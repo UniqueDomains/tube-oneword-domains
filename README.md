@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .tube one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,877 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,877 domains · **Median ask:** $42.18 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,877 domains · **Median ask:** $46.58 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/tube`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/tube`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .TUBE one-word domain 
 
 ### Files
 
-- `tube.csv` — public CSV extract (1,000 rows)
-- `tube.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `tube.csv`, public CSV extract (1,000 rows)
+- `tube.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| IsleofMan.tube     | available | $33.98    | —             | 62             | 91     | 11     | namecheap       |
-| makers.tube        | resell    | —         | —             | 62             | 67     | 6      | IONOS SE        |
-| donuts.tube        | premium   | $62.50    | —             | 54             | 62     | 6      | name.com        |
-| keepthechange.tube | available | $33.98    | —             | 46             | 59     | 15     | namecheap       |
-| brain.tube         | resell    | —         | —             | 72             | 48     | 5      | NameCheap, Inc. |
-| Books.tube         | premium   | $525      | $28           | 52             | 49     | 5      | namecheap       |
-| teams.tube         | available | $33.98    | —             | 62             | 32     | 5      | namecheap       |
-| justin.tube        | premium   | $125      | —             | 58             | 38     | 7      | name.com        |
-| letsgo.tube        | available | $33.98    | —             | 57             | 31     | 7      | namecheap       |
-| WiFi.tube          | premium   | $140      | $28           | 83             | 37     | 5      | namecheap       |
-| inspiration.tube   | available | $33.98    | —             | 88             | 30     | 11     | namecheap       |
-| stories.tube       | premium   | $62.50    | —             | 58             | 36     | 7      | name.com        |
-| trades.tube        | available | $23.99    | $23.99        | 71             | 26     | 6      | namesilo        |
-| homes.tube         | premium   | $62.50    | —             | 86             | 34     | 5      | name.com        |
-| sites.tube         | available | $33.98    | —             | 53             | 26     | 5      | namecheap       |
-| etc.tube           | premium   | $62.50    | —             | 58             | 34     | 3      | name.com        |
-| whats.tube         | available | $23.99    | $23.99        | 58             | 24     | 5      | namesilo        |
-| Jim.tube           | premium   | $525      | $28           | 78             | 28     | 3      | namecheap       |
-| inhouse.tube       | available | $33.98    | —             | 70             | 23     | 8      | namecheap       |
-| superhero.tube     | premium   | $62.50    | —             | 84             | 23     | 9      | name.com        |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| bead.tube  | available | $23.99    | $23.99        | high           | low    | 4      | namesilo         |
+| boob.tube  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| arm.tube   | premium   | $468.75   | —             | high           | medium | 3      | name.com         |
+| bore.tube  | available | $33.98    | —             | high           | low    | 4      | namecheap        |
+| earn.tube  | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
+| egg.tube   | premium   | $468.75   | —             | high           | low    | 3      | name.com         |
+| chin.tube  | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo         |
+| plus.tube  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| end.tube   | premium   | $468.75   | —             | high           | low    | 3      | name.com         |
+| deck.tube  | available | $33.98    | —             | high           | low    | 4      | namecheap        |
+| score.tube | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
+| few.tube   | premium   | $125      | —             | high           | low    | 3      | name.com         |
+| each.tube  | available | $33.98    | —             | high           | low    | 4      | namecheap        |
+| mid.tube   | premium   | $125      | —             | high           | low    | 3      | name.com         |
+| Fran.tube  | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo         |
+| MMR.tube   | premium   | $125      | —             | high           | low    | 3      | name.com         |
+| guts.tube  | available | $33.98    | —             | high           | low    | 4      | namecheap        |
+| nan.tube   | premium   | $468.75   | —             | high           | low    | 3      | name.com         |
+| ISBN.tube  | available | $23.99    | $23.99        | high           | low    | 4      | namesilo         |
+| rag.tube   | premium   | $125      | $34.99        | medium         | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .tube domains. The set leans toward concise dictionary words and broad commercial terms, with examples such as chart.tube, capital.tube, feature.tube, firm.tube, and elegant.tube. For founders, the key question is whether the word remains memorable and credible when paired with .tube. For investors, the main test is whether the keyword has clear resale logic beyond novelty. With a median ask of 42.18, entry pricing appears low, but .tube is a niche extension, so end-user fit matters more than volume alone. Favor names where the word and extension create a natural phrase or category signal.
+This selection includes 11,877 one-word .tube domain names, ranging from everyday nouns and compound phrases to brand-style names such as Chanel.tube and Trex.tube. The median ask sits near $46.58, keeping many of these domains within reach for both quick acquisitions and longer-term holds. Because .tube carries a strong association with video and media content, names in this list often suit founders building content platforms as well as investors tracking niche-TLD demand.
 
-- One-word .tube domains only
-- 11,875 domains in this selection
-- Median ask: 42.18
-- Best fit when word + .tube reads naturally
+- 11,877 one-word .tube domain names, updated daily
+- Median ask near $46.58 across this selection
+- Mix of everyday words, compounds, and brand-style names
+- .tube signals video/media use cases for founders and investors
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TUBE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TUBE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
