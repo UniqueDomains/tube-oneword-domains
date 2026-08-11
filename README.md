@@ -1,10 +1,10 @@
-# Available .TUBE One-Word Domains (11,879)
+# Available .TUBE One-Word Domains (12,844)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C879%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C844%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .tube one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,879 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,844 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,879 domains · **Median ask:** $45.55 · **High-demand under $2,500:** 13
+**Public extract:** 1,000 rows · **Live catalog:** 12,844 domains · **Median ask:** $50.14 · **High-demand under $2,500:** 14
 
-**Last updated:** 2026-08-06
+**Last updated:** 2026-08-11
 **Canonical page:** `https://unique.domains/domains/tld/tube`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| bead.tube  | available | $23.99    | $23.99        | high           | low    | 4      | namesilo         |
-| boob.tube  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| arm.tube   | premium   | $468.75   | —             | high           | medium | 3      | name.com         |
-| bore.tube  | available | $33.98    | —             | high           | low    | 4      | namecheap        |
-| earn.tube  | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
-| clv.tube   | premium   | $125      | $34.99        | low            | low    | 3      | name.com         |
-| chin.tube  | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo         |
-| plus.tube  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| egg.tube   | premium   | $468.75   | —             | high           | low    | 3      | name.com         |
-| deck.tube  | available | $33.98    | —             | high           | low    | 4      | namecheap        |
-| score.tube | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
-| end.tube   | premium   | $468.75   | —             | high           | low    | 3      | name.com         |
-| each.tube  | available | $33.98    | —             | high           | low    | 4      | namecheap        |
-| few.tube   | premium   | $125      | —             | high           | low    | 3      | name.com         |
-| Fran.tube  | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo         |
-| mid.tube   | premium   | $125      | —             | high           | low    | 3      | name.com         |
-| guts.tube  | available | $33.98    | —             | high           | low    | 4      | namecheap        |
-| MMR.tube   | premium   | $125      | —             | high           | low    | 3      | name.com         |
-| ISBN.tube  | available | $23.99    | $23.99        | high           | low    | 4      | namesilo         |
-| nan.tube   | premium   | $468.75   | —             | high           | low    | 3      | name.com         |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| steady.tube | available | $23.99    | $23.99        | high           | low    | 6      | namesilo         |
+| bead.tube   | available | $23.99    | $23.99        | high           | low    | 4      | namesilo         |
+| boob.tube   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| arm.tube    | premium   | $468.75   | —             | high           | medium | 3      | name.com         |
+| bore.tube   | available | $33.98    | —             | high           | low    | 4      | namecheap        |
+| earn.tube   | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
+| clv.tube    | premium   | $125      | $34.99        | low            | low    | 3      | name.com         |
+| chin.tube   | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo         |
+| plus.tube   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| egg.tube    | premium   | $468.75   | —             | high           | low    | 3      | name.com         |
+| deck.tube   | available | $33.98    | —             | high           | low    | 4      | namecheap        |
+| score.tube  | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
+| end.tube    | premium   | $468.75   | —             | high           | low    | 3      | name.com         |
+| each.tube   | available | $33.98    | —             | high           | low    | 4      | namecheap        |
+| few.tube    | premium   | $125      | —             | high           | low    | 3      | name.com         |
+| Fran.tube   | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo         |
+| mid.tube    | premium   | $125      | —             | high           | low    | 3      | name.com         |
+| guts.tube   | available | $33.98    | —             | high           | low    | 4      | namecheap        |
+| MMR.tube    | premium   | $125      | —             | high           | low    | 3      | name.com         |
+| ISBN.tube   | available | $23.99    | $23.99        | high           | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,879 live domains                        |
+| 1,000-row public sample | 12,844 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 13 high-demand names under $2,500          |
+| Basic exported fields   | 14 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TUBE One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TUBE One-Word Domains*. Version 2026-08-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
