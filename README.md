@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tube one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,780 domains · **Median ask:** $57.01 · **High-demand under $2,500:** 15
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/tube`
 **Best for:** founders, investors, studios
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TUBE One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TUBE One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
