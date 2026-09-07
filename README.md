@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tube one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,902 domains · **Median ask:** $61.91 · **High-demand under $2,500:** 15
 
-**Last updated:** 2026-09-06
+**Last updated:** 2026-09-07
 **Canonical page:** `https://unique.domains/domains/tld/tube`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| bead.tube  | available | $23.99    | $23.99        | high           | low    | 4      | namesilo         |
-| boob.tube  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| arm.tube   | premium   | $468.75   | —             | high           | medium | 3      | name.com         |
-| bore.tube  | available | $33.98    | —             | high           | low    | 4      | namecheap        |
-| earn.tube  | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
-| clv.tube   | premium   | $125      | $34.99        | low            | low    | 3      | name.com         |
-| chin.tube  | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo         |
-| plus.tube  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| egg.tube   | premium   | $468.75   | —             | high           | low    | 3      | name.com         |
-| deck.tube  | available | $33.98    | —             | high           | low    | 4      | namecheap        |
-| score.tube | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
-| end.tube   | premium   | $2,500    | $34.99        | medium         | low    | 3      | name.com         |
-| each.tube  | available | $33.98    | —             | high           | low    | 4      | namecheap        |
-| few.tube   | premium   | $125      | —             | high           | low    | 3      | name.com         |
-| Fran.tube  | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo         |
-| mid.tube   | premium   | $125      | —             | high           | low    | 3      | name.com         |
-| guts.tube  | available | $33.98    | —             | high           | low    | 4      | namecheap        |
-| MMR.tube   | premium   | $125      | —             | high           | low    | 3      | name.com         |
-| ISBN.tube  | available | $23.99    | $23.99        | high           | low    | 4      | namesilo         |
-| nan.tube   | premium   | $468.75   | —             | high           | low    | 3      | name.com         |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| steady.tube | available | $23.99    | $23.99        | high           | low    | 6      | namesilo         |
+| bead.tube   | available | $23.99    | $23.99        | high           | low    | 4      | namesilo         |
+| boob.tube   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| arm.tube    | premium   | $468.75   | —             | high           | medium | 3      | name.com         |
+| bore.tube   | available | $33.98    | —             | high           | low    | 4      | namecheap        |
+| earn.tube   | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
+| clv.tube    | premium   | $125      | $34.99        | low            | low    | 3      | name.com         |
+| chin.tube   | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo         |
+| plus.tube   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| egg.tube    | premium   | $468.75   | —             | high           | low    | 3      | name.com         |
+| deck.tube   | available | $33.98    | —             | high           | low    | 4      | namecheap        |
+| score.tube  | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
+| end.tube    | premium   | $2,500    | $34.99        | medium         | low    | 3      | name.com         |
+| each.tube   | available | $33.98    | —             | high           | low    | 4      | namecheap        |
+| few.tube    | premium   | $125      | —             | high           | low    | 3      | name.com         |
+| Fran.tube   | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo         |
+| mid.tube    | premium   | $125      | —             | high           | low    | 3      | name.com         |
+| guts.tube   | available | $33.98    | —             | high           | low    | 4      | namecheap        |
+| MMR.tube    | premium   | $125      | —             | high           | low    | 3      | name.com         |
+| ISBN.tube   | available | $23.99    | $23.99        | high           | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TUBE One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TUBE One-Word Domains*. Version 2026-09-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -157,4 +157,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `gaetan@unique.domains`
+Questions, corrections, or partnership requests: `kai@unique.domains`
