@@ -1,10 +1,10 @@
-# Available .TUBE One-Word Domains (27,707)
+# Available .TUBE One-Word Domains (29,196)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C707%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C196%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .tube one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,707 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **29,196 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,707 domains · **Median ask:** $100.78 · **High-demand under $2,500:** 39
+**Public extract:** 1,000 rows · **Live catalog:** 29,196 domains · **Median ask:** $100.16 · **High-demand under $2,500:** 42
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/tube`
 **Best for:** founders, investors, studios
 
@@ -77,13 +77,13 @@ print(df.head())
 | bao.tube    | premium   | $2,600    | $26           | medium         | low    | 3      | namecheap        |
 | eggs.tube   | available | $21.62    | $21.62        | high           | low    | 4      | dynadot          |
 | bhp.tube    | premium   | $260      | $26           | high           | low    | 3      | namecheap        |
-| gatt.tube   | available | $25.98    | $33.98        | medium         | low    | 4      | namecheap        |
+| eyck.tube   | available | $25.98    | $33.98        | high           | low    | 4      | namecheap        |
 | csp.tube    | premium   | $218.86   | $22.36        | high           | low    | 3      | porkbun          |
-| grew.tube   | available | $23.60    | $23.60        | high           | low    | 4      | namesilo         |
+| gasp.tube   | available | $23.60    | $23.60        | high           | low    | 4      | namesilo         |
 | den.tube    | premium   | $650      | $26           | high           | low    | 3      | namecheap        |
-| haag.tube   | available | $23.60    | $23.60        | medium         | low    | 4      | namesilo         |
+| gatt.tube   | available | $25.98    | $33.98        | medium         | low    | 4      | namecheap        |
 | fca.tube    | premium   | $650      | $26           | high           | low    | 3      | namecheap        |
-| irma.tube   | available | $21.11    | $21.11        | medium         | low    | 4      | porkbun          |
+| grew.tube   | available | $23.60    | $23.60        | high           | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,707 live domains                        |
+| 1,000-row public sample | 29,196 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 39 high-demand names under $2,500          |
+| Basic exported fields   | 42 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TUBE One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TUBE One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
